@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="wall_clock.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="526.1811"
+     inkscape:cy="372.04724"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="354.00001,691"
+       orientation="0,1"
+       id="guide4198" />
+    <sodipodi:guide
+       position="415.00001,54"
+       orientation="0,1"
+       id="guide4200" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="clock-base"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.26999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4205"
+       cx="526.18109"
+       cy="372.04724"
+       r="318.5" />
+    <circle
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.26999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4205-3"
+       cx="526.18109"
+       cy="372.04724"
+       r="286.64999" />
+    <circle
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.26999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4205-6"
+       cx="526.18109"
+       cy="372.04724"
+       r="15.925" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="clock-hour"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.26999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 526.18164 347.04688 A 25 25 0 0 0 518.80469 348.1875 L 332 372.04688 L 518.68555 395.89062 A 25 25 0 0 0 526.18164 397.04688 A 25 25 0 0 0 527.40039 397.00391 L 527.73828 397.04688 L 527.73828 396.99219 A 25 25 0 0 0 551.18164 372.04688 A 25 25 0 0 0 527.73828 347.125 L 527.73828 347.04688 L 527.30078 347.10352 A 25 25 0 0 0 526.18164 347.04688 z M 526.18164 358.04688 A 14 14 0 0 1 540.18164 372.04688 A 14 14 0 0 1 526.18164 386.04688 A 14 14 0 0 1 512.18164 372.04688 A 14 14 0 0 1 526.18164 358.04688 z "
+       id="path4205-6-3" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="clock-minute"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.26999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 526.18112,100.99023 501.7651,366.74609 a 25,25 0 0 0 -0.58398,5.30079 25,25 0 0 0 0.0273,0.75585 l -0.0273,0.29102 0.0371,0 a 25,25 0 0 0 24.96289,23.95313 25,25 0 0 0 24.94727,-23.95313 l 0.0527,0 -0.0332,-0.36914 a 25,25 0 0 0 0.0332,-0.67773 25,25 0 0 0 -0.57031,-5.16407 L 526.18112,100.99023 Z m 0,257.05665 a 14,14 0 0 1 14,14 14,14 0 0 1 -14,14 14,14 0 0 1 -14,-14 14,14 0 0 1 14,-14 z"
+       id="rect4244"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
